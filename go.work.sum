@@ -166,6 +166,7 @@ cloud.google.com/go/cloudbuild v1.19.2/go.mod h1:jQbnwL8ewycsWUorJj4e11XNH8Q7ISv
 cloud.google.com/go/cloudbuild v1.22.0/go.mod h1:p99MbQrzcENHb/MqU3R6rpqFRk/X+lNG3PdZEIhM95Y=
 cloud.google.com/go/cloudbuild v1.22.2/go.mod h1:rPyXfINSgMqMZvuTk1DbZcbKYtvbYF/i9IXQ7eeEMIM=
 cloud.google.com/go/cloudbuild v1.22.3/go.mod h1:Z9gdGjZIJjMdlHR6YxGOTOQlBfgA1oMHHSyXHo6Knkg=
+cloud.google.com/go/cloudbuild v1.23.0/go.mod h1:BkxnZUIHUHkl+oNpEbwc7n9id4pZRDQRVKIa6sDCuJI=
 cloud.google.com/go/clouddms v1.6.1/go.mod h1:Ygo1vL52Ov4TBZQquhz5fiw2CQ58gvu+PlS6PVXCpZI=
 cloud.google.com/go/clouddms v1.7.6/go.mod h1:8HWZ2tznZ0mNAtTpfnRNT0QOThqn9MBUqTj0Lx8npIs=
 cloud.google.com/go/clouddms v1.7.10/go.mod h1:PzHELq0QDyA7VaD9z6mzh2mxeBz4kM6oDe8YxMxd4RA=
@@ -188,6 +189,7 @@ cloud.google.com/go/compute v1.31.1/go.mod h1:hyOponWhXviDptJCJSoEh89XO1cfv616wb
 cloud.google.com/go/compute v1.34.0/go.mod h1:zWZwtLwZQyonEvIQBuIa0WvraMYK69J5eDCOw9VZU4g=
 cloud.google.com/go/compute v1.38.0/go.mod h1:oAFNIuXOmXbK/ssXm3z4nZB8ckPdjltJ7xhHCdbWFZM=
 cloud.google.com/go/compute v1.43.0/go.mod h1:CVU1vblYdyi+kDBwugna5cHxDVAZ7FHMqKT9/aRHIJs=
+cloud.google.com/go/compute v1.44.0/go.mod h1:CVU1vblYdyi+kDBwugna5cHxDVAZ7FHMqKT9/aRHIJs=
 cloud.google.com/go/compute/metadata v0.2.0/go.mod h1:zFmK7XCadkQkj6TtorcaGlCW1hT1fIilQDwofLpJ20k=
 cloud.google.com/go/compute/metadata v0.2.3/go.mod h1:VAV5nSsACxMJvgaAuX6Pk2AawlZn8kiOGuCv6gTkwuA=
 cloud.google.com/go/compute/metadata v0.3.0/go.mod h1:zFmK7XCadkQkj6TtorcaGlCW1hT1fIilQDwofLpJ20k=
@@ -296,6 +298,7 @@ cloud.google.com/go/documentai v1.30.5/go.mod h1:5ajlDvaPyl9tc+K/jZE8WtYIqSXqAD3
 cloud.google.com/go/documentai v1.35.1/go.mod h1:WJjwUAQfwQPJORW8fjz7RODprMULDzEGLA2E6WxenFw=
 cloud.google.com/go/documentai v1.35.2/go.mod h1:oh/0YXosgEq3hVhyH4ZQ7VNXPaveRO4eLVM3tBSZOsI=
 cloud.google.com/go/documentai v1.37.0/go.mod h1:qAf3ewuIUJgvSHQmmUWvM3Ogsr5A16U2WPHmiJldvLA=
+cloud.google.com/go/documentai v1.38.0/go.mod h1:zNhZmHJ4/VbvhA0h2U5JRbOHm2BTMq4FxJ276mYAohk=
 cloud.google.com/go/domains v0.9.1/go.mod h1:aOp1c0MbejQQ2Pjf1iJvnVyT+z6R6s8pX66KaCSDYfE=
 cloud.google.com/go/domains v0.9.7/go.mod h1:u/yVf3BgfPJW3QDZl51qTJcDXo9PLqnEIxfGmGgbHEc=
 cloud.google.com/go/domains v0.9.11/go.mod h1:efo5552kUyxsXEz30+RaoIS2lR7tp3M/rhiYtKXkhkk=
@@ -428,6 +431,7 @@ cloud.google.com/go/maps v1.17.1/go.mod h1:lGZCm2ILmN06GQyrRQwA1rScqQZuApQsCTX+0
 cloud.google.com/go/maps v1.19.0/go.mod h1:goHUXrmzoZvQjUVd0KGhH8t3AYRm17P8b+fsyR1UAmQ=
 cloud.google.com/go/maps v1.21.0/go.mod h1:cqzZ7+DWUKKbPTgqE+KuNQtiCRyg/o7WZF9zDQk+HQs=
 cloud.google.com/go/maps v1.22.0/go.mod h1:TAt/cYHndJQBrir8DN8OHiS0HvKwsBTqDGRfAtLIulU=
+cloud.google.com/go/maps v1.23.0/go.mod h1:8tjxLplMV7FEoR9FIwqoY7siDnaOdE7FBWnjaXK/xts=
 cloud.google.com/go/mediatranslation v0.8.1/go.mod h1:L/7hBdEYbYHQJhX2sldtTO5SZZ1C1vkapubj0T2aGig=
 cloud.google.com/go/mediatranslation v0.8.7/go.mod h1:6eJbPj1QJwiCP8R4K413qMx6ZHZJUi9QFpApqY88xWU=
 cloud.google.com/go/mediatranslation v0.8.11/go.mod h1:3sNEm0fx61eHk7rfzBzrljVV9XKr931xI3OFacQBVFg=
