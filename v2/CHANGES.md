@@ -1,3 +1,9 @@
+## [2.16.0](https://github.com/googleapis/google-cloud-go/releases/tag/v2%2Fv2.16.0) (2025-09-29)
+
+### Features
+
+* this is a test change ([6b0f32b](https://github.com/googleapis/google-cloud-go/commit/6b0f32b73ded288e150b939b067d4a109ccc44a3))
+
 # Changelog
 
 ## [2.15.0](https://github.com/googleapis/gax-go/compare/v2.14.2...v2.15.0) (2025-07-09)
